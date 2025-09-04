@@ -604,7 +604,7 @@ be0bb1ed-abf4-45aa-b7e8-d1522dfdcb47,anarchic.biz,available,40,2,8,,,
 13eff7ed-6856-49ea-98bf-7e46b3d4d217,anasarcous.biz,available,46,1,10,,,
 3e0550ea-ad49-460c-a4cb-ccea8b5a4d30,anatomic.biz,resell,46,4,8,"Spaceship, Inc.",02/12/2024 18:40,02/12/2025 18:40
 162d332f-550f-4310-be24-f0f024547c23,anatomical.biz,available,46,3,10,,,
-59c657b1-9dd2-4e58-bf3e-ba9e851e5929,anatomy.biz,available,78,,7,,,
+59c657b1-9dd2-4e58-bf3e-ba9e851e5929,anatomy.biz,available,78,14,7,,,
 a6d9c167-95e1-454f-bfba-7771a82b9f04,anatropous.biz,available,46,1,10,,,
 85d33599-a99d-4398-aeb5-4e1fad3a0644,ancestor.biz,available,90,8,8,,,
 95db5a59-4e16-4a56-b973-128be8fa22c6,ancestral.biz,available,80,14,9,,,
@@ -614,6 +614,8 @@ f206e79b-f68b-43be-bef3-1c7fe5026e92,ancillary.biz,available,76,7,9,,,
 02bf44d4-c994-4544-accc-53a26bd74975,andean.biz,available,76,6,6,,,
 77a5e2d5-67a4-4de0-b957-8ec19bf8830f,andorran.biz,available,72,1,8,,,
 9fe639be-b8b5-45ea-a280-6a03351dfeb9,androgenic.biz,available,50,1,10,,,
+a41a0137-49e1-4730-9846-62889290091d,android.biz,resell,88,43,7,"GoDaddy.com, LLC",30/03/2005 17:01,29/03/2026 23:59
+cad23f62-f338-4192-9a93-f4d2fd131e0d,andromeda.biz,resell,78,34,9,Sav.com LLC,29/08/2021 19:07,29/08/2026 19:07
 07e9b3ad-7040-4245-ae8d-16a5010978d0,anecdotic.biz,available,50,1,9,,,
 8c338dca-4ef4-4a6b-a427-507072acdfc1,anechoic.biz,available,50,2,8,,,
 390304f4-35ca-4cbe-9a16-0996cfc6999b,anemic.biz,available,72,3,6,,,
@@ -623,8 +625,10 @@ ff43230b-51b8-4eb9-9260-0cb493af5a40,anestric.biz,available,48,1,8,,,
 0445a134-27ec-48c2-ba86-1108de503480,aneuploid.biz,available,59,1,9,,,
 bea50cc1-c4a0-4e28-9d63-02b078341c95,aneurismal.biz,available,50,6,10,,,
 1e2af29c-a1bc-4a1a-a4c9-aee499aaaae5,aneurysmal.biz,available,50,2,10,,,
+0cbe8529-85c8-423d-9570-ae67a08bf14c,angel.biz,resell,98,34,5,Megazone Corp.,27/03/2002 11:49,26/03/2026 23:59
 ccf575c5-3a1a-4114-a261-27c94930a0b9,angelic.biz,available,80,11,7,,,
 89943849-d4fc-4cb2-a7ce-259c3f00b5ca,angelical.biz,available,68,1,9,,,
+27c8eaa7-8318-475c-8ace-40a3dfd17320,anger.biz,available,80,12,5,,,
 78249181-9223-46c6-b55b-b5d31e7a0a40,angered.biz,available,52,4,7,,,
 d1540c6e-3297-43e6-945b-ae2577410a4e,anginal.biz,available,54,1,7,,,
 84dfc2c1-6c40-47a4-858a-39cd004115f4,anginose.biz,available,50,2,8,,,
@@ -677,6 +681,7 @@ c26cfdec-2337-4864-9fab-cf0e64a296cf,anosmatic.biz,available,44,1,9,,,
 e934d0d8-6503-4429-8069-8af31994e8bc,anoxemic.biz,available,44,1,8,,,
 cdd2ef5c-141f-4b65-8900-9b17e9e6e9a5,anoxic.biz,available,48,2,6,,,
 dfd0b3ea-92ea-4110-80b9-f9b36139e162,anserine.biz,available,68,1,8,,,
+0d487e84-9bde-4a99-8da6-988b9d8ddb2c,answer.biz,resell,98,21,6,"GoDaddy.com, LLC",10/06/2005 17:01,09/06/2026 23:59
 83caf78e-d77d-4d3a-9bdb-99df45b9d0b9,answerable.biz,available,70,2,10,,,
 f575a2c9-eb10-4042-a043-df003645e1be,answering.biz,available,74,4,9,,,
 aa062c44-6d41-4e31-9990-a7dddada2632,antacid.biz,available,88,2,7,,,
@@ -771,6 +776,7 @@ bf009958-6811-4d13-ad1a-546dd578587d,apogamous.biz,available,41,1,9,,,
 00b52515-062c-4681-af41-19205f576d42,apogean.biz,available,50,3,7,,,
 7f4fd023-fdf3-4d41-8d4c-2e162e0ceadc,apolitical.biz,available,72,5,10,,,
 9d5041cd-fe1b-4ce6-b7bc-a81f828b9590,apologetic.biz,available,58,2,10,,,
+221197ca-046e-4ff9-a12c-3d73884c6514,apology.biz,available,74,5,7,,,
 63c50ff6-fe60-4df5-81ff-19e80843949b,apomictic.biz,available,46,1,9,,,
 7c5b0692-43d6-4dd1-8cb4-9e0cbfe194df,apopemptic.biz,available,64,1,10,,,
 91f7fd78-f218-438a-9170-146baaa14d83,apophatic.biz,available,46,1,9,,,
@@ -782,10 +788,13 @@ bd621dfd-95f2-4afe-970e-3bca201f947b,apostolic.biz,resell,47,6,9,"Wild West Doma
 ea0ad7a3-6ed9-415d-ad70-143d32539368,apotropaic.biz,available,59,1,10,,,
 27a2f4ed-c092-4e0b-a9ca-24fa8922dc50,appalled.biz,available,52,1,8,,,
 056fa8a6-c1fa-4c18-a3a1-763634e900bf,appalling.biz,available,50,2,9,,,
+890af147-67e7-4dbb-97a4-c34a49ff3ebd,apparel.biz,resell,98,16,7,"GoDaddy.com, LLC",27/03/2002 08:42,26/03/2026 23:59
 409257c2-c99d-4748-8c84-a9a9b43f7159,appareled.biz,available,46,1,9,,,
 441162e5-76ef-4ce5-acf2-7d716f4099f9,apparent.biz,available,58,6,8,,,
+a84b3d7f-de3a-4a0c-a5a0-43988b7ac179,appeal.biz,available,96,14,6,,,
 2faca1f5-2c9e-44f4-8534-649d3f6833c2,appealable.biz,available,46,1,10,,,
 8e1bbefa-abb0-4508-a13e-2d88bd3da147,appealing.biz,available,78,3,9,,,
+458e5a49-679d-40fa-84e7-2395ab2f64da,appearance.biz,available,72,7,10,,,
 a1c01eb3-2489-4b42-8770-2e59525d1f30,appeasable.biz,available,46,1,10,,,
 63b76ae2-586b-4e7f-9e6c-232b387ffc16,appellant.biz,available,64,2,9,,,
 01f8a335-deb8-4ed9-a838-b0e482a3e4d4,appellate.biz,available,50,5,9,,,
@@ -847,6 +856,7 @@ f1077a4d-c0f8-4d4b-9551-7adea8d312bf,arching.biz,available,68,2,7,,,
 4f338030-87f4-4cf7-a5ae-10db298e8b3d,arciform.biz,available,46,1,8,,,
 310887a8-c002-424e-91fe-05262e55f3dd,arcuate.biz,available,50,2,7,,,
 d4a5fec6-f7ed-4c35-bbb5-0a5cabaec935,arduous.biz,available,60,3,7,,,
+b0c3ac53-f047-4c30-bae2-c218e267c901,area.biz,resell,78,,4,"Moniker Online Services, LLC",27/03/2002 08:12,26/03/2026 23:59
 77e0283b-c0d6-43e8-87ba-35bfd1fd35c7,arenaceous.biz,available,46,1,10,,,
 e95b654b-66a1-4c26-9cbb-981035ba0577,areolar.biz,available,50,1,7,,,
 eb35bc68-6441-4d00-9754-46e5261a7e3b,areolate.biz,available,46,1,8,,,
@@ -986,7 +996,7 @@ e13a76b7-e7b0-40fe-a5d1-76b20be9ee65,atlantic.biz,resell,84,24,8,Tucows Domains 
 1cc78daa-6b65-4ffd-a3bf-0a424db6eb50,atlast.biz,available,70,10,7,,,
 93e75334-10ff-47cd-aa3d-ecc92420e82b,atleast.biz,available,65,2,8,,,
 8be26833-8948-4cd4-8e12-b7b30a443de7,atmost.biz,available,67,3,7,,,
-5f46f579-4ea3-40ef-8d1b-af31273ba2a3,atomic.biz,resell,84,35,6,Sav.com LLC,02/11/2024 05:43,02/11/2025 05:43
+5f46f579-4ea3-40ef-8d1b-af31273ba2a3,atomic.biz,resell,84,34,6,Sav.com LLC,02/11/2024 05:43,02/11/2025 05:43
 e05fe285-6ed3-459e-b794-1ec0e12d1948,atomistic.biz,available,36,3,9,,,
 65b94bc2-20c3-4afb-b5f1-8b3de09ba09b,atonal.biz,available,49,4,6,,,
 c1e9980c-f47b-44c8-badc-3b6481883a3d,atonic.biz,available,58,2,6,,,
@@ -1001,6 +1011,7 @@ c8254c35-bf89-4efc-bbf9-4e171475b2a1,atrophic.biz,available,36,1,8,,,
 fe01a7fa-cf29-41ee-89ca-358986ecb348,atstake.biz,available,58,3,8,,,
 bf91c139-529c-4ca7-a2ea-9e5690554c3b,attachable.biz,available,48,1,10,,,
 1abf77aa-8958-43b0-81a4-4a7234483ddb,attachment.biz,available,72,12,10,,,
+31bb42a2-118a-4ad4-bc03-44a9d86a3671,attack.biz,resell,122,15,6,"GoDaddy.com, LLC",19/08/2005 17:01,18/08/2026 23:59
 551780ba-6c12-486d-9f69-20b8abd01b82,attainable.biz,available,86,8,10,,,
 8870fd32-ebf9-4dd6-9cb6-bab26d7e13cb,attained.biz,available,58,2,8,,,
 d000b493-79e4-496b-b04a-9c20884d13bf,attempted.biz,available,52,2,9,,,
@@ -1441,6 +1452,7 @@ b36edeaf-fba5-4805-a5be-3bc9b33f58b6,cliche.biz,resell,91,10,6,Dynadot Inc,20/03
 c188637e-f35e-430e-af2f-d5b01c442944,closest.biz,available,68,3,7,,,
 bbb68029-601d-461d-9b37-a94c4be8437d,closeto.biz,available,58,6,8,,,
 620a05c1-66e1-46f3-83ee-37e731425c16,cloth.biz,resell,74,10,5,Sav.com LLC,24/08/2017 20:52,24/08/2026 20:52
+03f8efdc-91ed-448d-8465-67ac372e7c36,clothes.biz,resell,82,18,7,"Moniker Online Services, LLC",27/03/2002 07:04,26/03/2026 23:59
 4d5d6282-4675-4052-ada1-c730a0ef5fd3,clown.biz,available,98,24,5,,,
 b447abb7-81b5-4079-99fc-6a453cb46745,clustered.biz,available,58,4,9,,,
 fe8249fd-d9ef-48fc-bdd8-8b47b8075a90,clv.biz,available,66,10,3,,,
@@ -1676,6 +1688,7 @@ ca393760-367e-4310-8d36-53d183fe914d,dominated.biz,available,56,6,9,,,
 12910441-d0aa-4e9c-9fc0-0b0320fb2657,dotty.biz,available,52,8,5,,,
 2e786f0a-5b7e-4f7e-a6c0-11f545baea7d,doubter.biz,available,60,2,7,,,
 bf34153f-3b22-4825-8704-41719012def0,doubtful.biz,available,74,7,8,,,
+1849a7b1-6461-46f2-86a3-5bd2827e4a1d,doughnut.biz,available,66,10,8,,,
 dd21b3ab-f1de-440d-a6be-8cbd3a69c3dc,downtown.biz,resell,94,20,8,"GoDaddy.com, LLC",25/05/2010 17:02,24/05/2027 23:59
 8a0b1292-a1f5-48b0-bad0-036b03d19bd6,dozen.biz,premium,82,14,5,,,
 5bce1e3d-4baa-4cc6-97c6-c4948ea843ee,draggled.biz,available,42,1,8,,,
@@ -1770,6 +1783,7 @@ a58c7eed-8b22-4429-b2c1-bde6e13279e4,eremitical.biz,available,46,1,10,,,
 5bbfe5f1-8c54-45e9-a856-e432a0c02ec2,essential.biz,resell,98,26,9,"GoDaddy.com, LLC",27/03/2002 06:09,26/03/2026 23:59
 5a0f55b5-9e84-48c6-8365-03e818de1cca,establish.biz,resell,66,8,9,IONOS SE,09/10/2001 23:36,06/11/2025 23:59
 2f729df6-8758-4ea1-87c8-208be3e3c997,esthetical.biz,available,70,1,10,,,
+3d7b3528-f24e-40fc-9385-e64fa7ac1426,estimate.biz,resell,90,15,8,"Name.com, Inc.",30/10/2016 17:08,29/10/2025 23:59
 051ae1b0-1e7a-4a27-bbf0-26bd573e7874,estival.biz,available,50,3,7,,,
 94409d8d-b8a7-466e-804d-6219ed7a8c37,esurient.biz,available,66,1,8,,,
 59c75c40-18b3-4cdf-8236-23aef4699157,eternal.biz,resell,92,38,7,"GoDaddy.com, LLC",30/07/2019 23:24,30/07/2026 23:24
@@ -1799,6 +1813,7 @@ cef7c3bf-183c-476b-90b7-2c5ec53c1388,existing.biz,available,62,9,8,,,
 d22610b3-a8fb-468a-908c-b080dd5674bc,exonerated.biz,available,66,3,10,,,
 f31bcbb3-17d0-425f-a43e-2c7a9ab06f07,expectant.biz,available,88,2,9,,,
 dfa7a51f-5780-4e8d-b269-0090f436ccbc,extempore.biz,available,86,3,9,,,
+e5b4278f-2d96-43cb-a30a-f1bd11223b66,extension.biz,available,70,16,9,,,
 f59baa03-2f63-473d-8048-4771e689e441,extensive.biz,available,42,5,9,,,
 0f65d5cc-bc34-483c-bb39-b0fdbe1ecfbb,extremely.biz,available,56,6,9,,,
 ec511634-6916-448a-b958-0028e1fc4a28,eyrie.biz,available,74,9,5,,,
@@ -1952,7 +1967,7 @@ b5d7b58f-a146-4c3d-8af9-f852f001794d,glistering.biz,available,60,1,10,,,
 56ffd253-744b-4773-918d-e3302f3e39b8,godawful.biz,available,42,1,9,,,
 cce87f19-b0b9-4b01-ad30-3285adb05b8f,godhead.biz,available,62,4,7,,,
 c8fa5212-5896-4a06-a5d8-83d97ff67eb5,going.biz,available,80,18,5,,,
-1772c43d-07ca-4f3f-b169-9cf1e836d7d0,gone.biz,available,80,14,4,,,
+1772c43d-07ca-4f3f-b169-9cf1e836d7d0,gone.biz,available,80,13,4,,,
 47a50df1-74ae-467e-9954-a59b1afde4bf,goodby.biz,available,66,2,7,,,
 8ea522ce-6d48-4ee4-82bd-4d441f46ad9c,goodbye.biz,resell,90,10,8,"NameCheap, Inc.",14/01/2004 17:48,13/01/2026 23:59
 63358bad-2a29-40d9-8200-7db52f9cdc0b,goon.biz,available,80,30,5,,,
@@ -1983,6 +1998,7 @@ cefaf056-885f-48d7-a6a7-11e1e2c6804e,grungy.biz,available,44,2,6,,,
 ed2dd1ba-127a-4e17-8622-33297b5df29c,gymnastic.biz,available,70,4,9,,,
 af1a480e-065f-482d-aab5-a6e708ea698b,hackneyed.biz,available,44,2,9,,,
 53da1f50-f064-465d-a2d1-430d28519bbc,halfdozen.biz,available,56,1,10,,,
+939fee7a-8cd8-4d0d-9d08-eebfea00ccbd,hall.biz,resell,80,22,4,"GoDaddy.com, LLC",15/07/2005 17:04,14/07/2026 23:59
 057b51f2-256e-40be-829a-f0c2a8433c64,handicap.biz,available,78,11,8,,,
 8f2fbc48-a983-4a36-8ed3-c30de442ea20,happily.biz,available,70,7,7,,,
 813e7370-ee51-4ea8-b8d0-783cb6ec01b8,harm.biz,available,86,12,4,,,
@@ -2040,6 +2056,7 @@ d805ff64-16d4-46c3-9014-239983b448a8,hungry.biz,resell,72,21,6,Tucows Domains In
 2c2c5139-6f5b-4e10-8df1-1258ff42fd5e,hurt.biz,available,60,13,4,,,
 b6cb5a02-2274-45d1-9fda-d973bb994b2c,hybrid.biz,resell,88,25,6,"NameCheap, Inc.",27/03/2002 15:48,26/03/2026 23:59
 a1bd425e-ad99-4541-9280-ff97f7a7deb8,iconic.biz,resell,76,38,6,"DNC Holdings, Inc.",19/10/2004 10:12,18/10/2025 23:59
+fa902205-2f51-4a36-a0b9-34a5e01ebe0c,idea.biz,available,88,7,4,,,
 5098fd5a-067a-4c72-893a-3373872d55c3,ideal.biz,resell,74,30,5,"007 Names, Inc.",27/03/2002 03:25,26/03/2026 23:59
 9ce57665-c8da-4a2b-9295-e735b5d57e4f,identical.biz,available,82,5,9,,,
 94ed928c-2757-4401-b651-8b6122665380,identified.biz,available,62,8,10,,,
@@ -2264,6 +2281,7 @@ b91aceb5-1f79-4d63-aa79-51ce62bee20a,meanwhile.biz,available,80,12,9,,,
 49e97264-0028-42b3-ae0f-d6b1cb9f124f,mechanical.biz,resell,84,17,10,"Sav.com, LLC - 4",14/06/2025 00:00,14/06/2026 00:00
 f412c9a8-0c11-4e3f-b17d-885e18410904,medium.biz,resell,98,26,6,Dynadot Inc,13/01/2019 06:42,13/01/2026 06:42
 d87ff1d8-0b8c-4759-b622-7bc50e30cf2f,melancholy.biz,available,76,9,10,,,
+8922cf79-cbb4-416c-8165-cfd56a76cb53,member.biz,resell,94,25,6,Sav.com LLC,27/03/2002 05:40,26/03/2026 23:59
 8bb8c265-5f34-412b-a7a6-bd47c98f6214,memorable.biz,available,92,17,9,,,
 d9cdee30-2ced-49ea-9cfd-5a5c26dc60d3,mental.biz,resell,86,25,6,"Spaceship, Inc.",24/06/2023 00:00,24/06/2026 00:00
 4c2e52bd-d6dc-463a-bf8b-6ef47b09be4d,merely.biz,available,60,5,6,,,
@@ -2303,12 +2321,14 @@ fbe38aee-cf43-43e7-ab19-3e6ddd2dd58f,monetary.biz,available,68,9,8,,,
 71d355a5-b609-46d0-9ff8-2f187bdba96f,morethan.biz,available,66,18,9,,,
 9f9d0c34-03f6-4775-b2e2-3a97d7af0d50,most.biz,resell,118,25,4,"GoDaddy.com, LLC",27/03/2002 09:37,26/03/2026 23:59
 bab28156-4363-46b3-862b-483785acd59b,mostly.biz,available,67,10,6,,,
+983ca7b0-db46-4c41-9802-798330777775,motion.biz,resell,102,34,6,Dynadot Inc,08/11/2017 00:03,08/11/2026 00:03
 5ba35545-8398-4600-bed8-c3e9929edb87,motivate.biz,available,81,17,8,,,
 05df108a-8e1c-4e3e-afe4-7c4c1d8e6e5e,motivation.biz,resell,74,19,10,Dynadot Inc,13/06/2018 00:18,13/06/2026 00:18
 574270a9-ea51-40bb-80bb-0cee23300bed,motive.biz,available,112,15,6,,,
 d474e980-c91b-45dc-822a-91236b983c3c,motley.biz,available,44,10,6,,,
 f74107a0-8a6a-49fd-a50d-46eec50dbe49,mouse.biz,resell,62,24,5,"GoDaddy.com, LLC",11/06/2004 17:26,10/06/2026 23:59
 0bee27d1-3779-4e92-8847-c4f7924b410a,mouthless.biz,available,34,1,9,,,
+d6bc73f7-2226-4dde-baed-67b8fcd4fcfa,movement.biz,resell,88,29,8,"GoDaddy.com, LLC",08/04/2009 12:56,07/04/2026 23:59
 33ef00aa-1c53-485e-9e88-ce1236d2e2e7,muchas.biz,available,58,1,7,,,
 ce26499a-cfe3-435b-897c-7d809e7204d1,multiple.biz,available,82,13,8,,,
 e0f09c43-880d-42f6-83a7-78f5116dff76,mum.biz,available,76,17,3,,,
@@ -2420,6 +2440,7 @@ fe78a2bc-b003-4c09-ac55-c5ea3af8731b,oriented.biz,available,68,6,8,,,
 ae18b3b4-291c-4800-8d4d-2127575c66de,original.biz,resell,98,27,8,"GoDaddy.com, LLC",27/03/2002 00:54,26/03/2026 23:59
 42a4f623-8a36-441f-87b5-be7800fe9a92,otherthan.biz,available,56,1,10,,,
 4ce0f356-af1f-4354-9524-35a8649e3418,otic.biz,available,58,4,4,,,
+5bf78fcc-3b7b-4ad7-9dc2-700f1bef414e,ounce.biz,available,74,9,5,,,
 05153ee0-6253-4084-aac7-cca89f3b67bd,out.biz,resell,152,28,3,Megazone Corp.,27/03/2002 05:49,26/03/2026 23:59
 15b7646b-1812-44c1-ab53-e2e7b81a72c3,outdated.biz,available,58,8,8,,,
 bd66e707-d544-4000-9855-1d676543811d,outlaw.biz,resell,62,21,6,"Spaceship, Inc.",09/01/2025 04:48,09/01/2026 04:48
@@ -2477,6 +2498,7 @@ c58ca9ab-4801-4f00-aeb6-ccc020fba1af,pestilent.biz,available,38,2,9,,,
 7b3e642b-1c9f-43bc-afc0-3a1406874d89,petite.biz,available,54,10,6,,,
 2e3f0fe1-e008-4e76-a114-08dd97f1e2e4,petty.biz,available,60,14,5,,,
 bdd20127-8280-45dd-8f23-4b22cd8169dd,phantasmal.biz,available,44,4,10,,,
+3aae5109-f8d1-49fc-a921-2948827fde88,pharmacist.biz,resell,74,12,10,"Domain Registration Services, Inc. dba dotEarth.com",27/03/2002 07:02,26/03/2026 23:59
 b7edefc9-7085-4675-9d3d-ac3104dd50fd,philistine.biz,available,56,3,10,,,
 f6039f7d-a0f0-4dab-88a1-febecbd8a0dc,phoebe.biz,resell,41,14,6,"Net-Chinese Co., Ltd.",31/03/2004 02:43,30/03/2034 23:59
 875a86c7-886a-482a-b994-a6c3bbe70281,phoney.biz,available,79,3,6,,,
@@ -2484,6 +2506,7 @@ f6039f7d-a0f0-4dab-88a1-febecbd8a0dc,phoebe.biz,resell,41,14,6,"Net-Chinese Co.,
 38af19d1-9dc8-40a3-813c-4055443486d6,physically.biz,available,56,3,10,,,
 18ba1de6-77d5-48e0-b0c0-64118827343b,piano.biz,available,74,25,5,,,
 469ce052-c131-4d8c-a794-d49e3c97e5bb,pick.biz,resell,66,25,4,"Wild West Domains, Inc.",16/07/2014 17:03,15/07/2026 23:59
+00841c71-62b7-4009-8c21-d164caae55cf,pill.biz,resell,60,12,4,Dynadot Inc,30/04/2017 17:01,29/04/2026 23:59
 e9ae79d2-bb77-42db-98a5-43e059994eb5,pilot.biz,resell,114,32,5,Dynadot Inc,15/06/2020 17:36,15/06/2031 17:36
 12f7cb79-93c8-41e5-964c-b8ffa1ae12de,pimpled.biz,available,41,1,7,,,
 bb0eaf43-c539-4749-831f-8f1397ffd7a1,pimply.biz,available,41,1,6,,,
@@ -2648,6 +2671,7 @@ b51a9a68-065d-415b-8a23-5f9be849addd,relation.biz,resell,70,14,8,"GoDaddy.com, L
 3d69f887-63ee-4acd-a16c-99529f408362,repeat.biz,resell,96,18,6,"NameCheap, Inc.",14/01/2004 01:56,13/01/2026 23:59
 e62e931a-e771-4e0d-bdd1-f6a862d3a2ac,repeated.biz,available,64,8,8,,,
 8381a269-60d6-45a1-a982-ea904c41299c,replace.biz,available,78,9,7,,,
+0f4ef9e1-b05d-4635-8d50-f4cde311dcfa,reply.biz,resell,94,23,5,Porkbun,30/03/2017 17:25,29/03/2027 23:59
 46ddc146-8ba2-45dd-b9f0-4ba14a72ac19,reported.biz,available,64,6,8,,,
 a30b7f04-1746-4ec2-8fee-5085a2c3e66b,reproving.biz,available,66,1,9,,,
 93e5d927-bd7c-4452-a2fa-be53365ccb27,repugnant.biz,available,52,2,9,,,
@@ -2661,6 +2685,7 @@ f48a0d84-6ec5-4773-af73-01bb4daa3cab,resolvable.biz,available,70,7,10,,,
 3e28f007-bcd9-4663-9dda-093351931c30,resounding.biz,available,88,11,10,,,
 20b03138-a5c4-4581-a92d-94f527aa59af,respected.biz,resell,81,9,9,"Wild West Domains, Inc.",10/03/2005 14:55,09/03/2026 23:59
 465b0732-b196-481f-b663-70d239e3c5c2,respectful.biz,available,78,10,10,,,
+8991164b-267a-4998-a1fd-6194a76b0eee,respond.biz,available,92,13,7,,,
 e3c9f2cc-74a7-4600-a958-fbcb69827906,respondent.biz,available,88,3,10,,,
 4885c2a8-79f7-4c73-b67a-b632635fff7e,responsive.biz,available,78,15,10,,,
 9f2b0234-be90-4e1f-998b-4b6cf5c17d49,rest.biz,resell,90,27,4,"GoDaddy.com, LLC",30/05/2004 17:23,29/05/2026 23:59
@@ -2757,7 +2782,7 @@ f04646de-a8fa-4418-9885-d3c3cf05e65b,scratchy.biz,available,54,3,8,,,
 c5ea5e50-f200-4996-91e3-b65e6283d5b6,sec.biz,resell,60,33,3,"Spaceship, Inc.",27/03/2002 05:20,26/03/2026 23:59
 6b82ebd3-8a73-4abf-8899-5c84738ad2d0,secondary.biz,available,78,14,9,,,
 358b23b9-de2e-4e58-a210-eff38a7dabb1,secondly.biz,available,54,3,8,,,
-5efa0d69-2247-48d0-bcc5-1416c48073f5,sedative.biz,available,76,2,8,,,
+5efa0d69-2247-48d0-bcc5-1416c48073f5,sedative.biz,available,76,1,8,,,
 ba6ff493-a96b-462f-b841-3937b7da37f5,sedulous.biz,available,50,3,8,,,
 dae8a029-0c23-4af9-9a49-116164d0eab6,seeing.biz,resell,98,9,6,"Name.com, Inc.",27/02/2017 08:13,26/02/2026 23:59
 5b590dae-5b16-4fba-93c8-4e0f2e69af5d,seemly.biz,available,58,4,6,,,
@@ -2979,6 +3004,7 @@ dc91dc1e-25dd-49fe-8f82-b4565a35f5a9,tall.biz,resell,106,14,4,"Name.com, Inc.",0
 c883fbc4-5f85-4780-bd64-cb9717f028bb,tangle.biz,resell,88,12,6,"Spaceship, Inc.",02/12/2024 18:41,02/12/2025 18:41
 0ee95149-89ab-4e0f-9678-81cf4a747c95,tea.biz,resell,102,40,3,Megazone Corp.,27/03/2002 04:29,26/03/2026 23:59
 972aad88-e77f-4719-8b54-4f19b3a274b8,teasing.biz,available,72,1,7,,,
+72753fbf-d0c2-413b-8f12-b9d6ef062516,technology.biz,resell,88,28,10,"GoDaddy.com, LLC",02/06/2004 17:14,01/06/2026 23:59
 96336218-422f-4453-a5b9-9998d66a5f73,tedious.biz,resell,60,5,7,Sav.com LLC,25/12/2023 13:05,25/12/2025 13:05
 6da95503-fbb0-4bf8-ae91-a8a91217f2cd,temporary.biz,available,78,18,9,,,
 3207f7b2-bc41-4540-ac0c-d8bb15866e98,tempting.biz,resell,88,4,8,"NameCheap, Inc.",05/01/2022 14:49,05/01/2026 14:49
