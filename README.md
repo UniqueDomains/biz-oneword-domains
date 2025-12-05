@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BIZ one-word domains still available to buy.
 
-This dataset contains 3,330 .BIZ one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,329 .BIZ one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BIZ one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=biz-oneword-domains&utm_content=description.top) (3,330) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,14 +24,14 @@ If you want to search & filters the complete database of [.BIZ one word domains]
 | aaron.biz      | resell    | 88       | 32%    | 5      | Domain.com, LLC         | 29/07/2004 17:00 | 28/07/2026 23:59 |
 | abactinal.biz  | available | 50       | 1%     | 9      |                         |                  |                  |
 | abaft.biz      | premium   | 43       | 2%     | 5      |                         |                  |                  |
-| abandoned.biz  | premium   | 58       | 10%    | 9      |                         |                  |                  |
+| abandoned.biz  | premium   | 58       | 7%     | 9      |                         |                  |                  |
 | abashed.biz    | available | 60       | 2%     | 7      |                         |                  |                  |
 | abasic.biz     | available | 54       | 2%     | 6      |                         |                  |                  |
 | abatable.biz   | available | 54       | 1%     | 8      |                         |                  |                  |
 | abaxial.biz    | available | 54       | 2%     | 7      |                         |                  |                  |
 | abbatial.biz   | available | 50       | 1%     | 8      |                         |                  |                  |
 | abdicable.biz  | available | 50       | 1%     | 9      |                         |                  |                  |
-| abdominal.biz  | premium   | 82       | 1%     | 9      |                         |                  |                  |
+| abdominal.biz  | premium   | 82       | 5%     | 9      |                         |                  |                  |
 | abdominous.biz | available | 56       | 1%     | 10     |                         |                  |                  |
 | abducens.biz   | available | 54       | 1%     | 8      |                         |                  |                  |
 | abducent.biz   | available | 68       | 1%     | 8      |                         |                  |                  |
@@ -40,7 +40,7 @@ If you want to search & filters the complete database of [.BIZ one word domains]
 | aberdonian.biz | available | 68       | 1%     | 10     |                         |                  |                  |
 | aberrant.biz   | premium   | 74       | 7%     | 8      |                         |                  |                  |
 | abeyant.biz    | available | 56       | 2%     | 7      |                         |                  |                  |
-| abhorrent.biz  | available | 54       | 1%     | 9      |                         |                  |                  |
+| abhorrent.biz  | available | 54       | 3%     | 9      |                         |                  |                  |
 | abiding.biz    | premium   | 106      | 5%     | 7      |                         |                  |                  |
 | abient.biz     | available | 54       | 1%     | 6      |                         |                  |                  |
 | ability.biz    | resell    | 92       | 18%    | 7      | Wild West Domains, Inc. | 12/06/2004 17:01 | 11/06/2026 23:59 |
@@ -50,7 +50,7 @@ If you want to search & filters the complete database of [.BIZ one word domains]
 | abkhazian.biz  | available | 78       | 1%     | 9      |                         |                  |                  |
 | ablated.biz    | available | 52       | 2%     | 7      |                         |                  |                  |
 | ablative.biz   | available | 68       | 3%     | 8      |                         |                  |                  |
-| abloom.biz     | resell    | 72       | 5%     | 6      | Spaceship, Inc.         | 03/12/2024 17:31 | 03/12/2025 17:31 |
+| able.biz       | resell    | 80       | 26%    | 4      | Dynadot Inc             | 18/07/2019 00:03 | 18/07/2026 00:03 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/biz-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BIZ one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
