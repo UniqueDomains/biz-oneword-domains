@@ -76,13 +76,13 @@ print(df.head())
 | costly.biz     | available | $24.98    | —             | 66             | 7      | 6      | namecheap       |
 | choose.biz     | resell    | $1,148.85 | $20           | 102            | 26     | 6      | Porkbun         |
 | shared.biz     | premium   | $218.75   | $20           | 70             | 39     | 6      | name.com        |
-| nought.biz     | available | $24.98    | —             | 92             | 6      | 6      | namecheap       |
+| derelict.biz   | available | $24.98    | —             | 92             | 6      | 8      | namecheap       |
 | define.biz     | resell    | $31.25    | $20           | 96             | 21     | 6      | Spaceship, Inc. |
 | streaming.biz  | premium   | $6,250    | $20           | 88             | 35     | 9      | name.com        |
-| derelict.biz   | available | $24.98    | —             | 92             | 6      | 8      | namecheap       |
+| tenner.biz     | available | $24.98    | —             | 66             | 6      | 6      | namecheap       |
 | abroad.biz     | resell    | $1,481.20 | $29.99        | 92             | 14     | 6      | NameSilo, LLC   |
 | goon.biz       | premium   | $62.50    | $20           | 80             | 35     | 5      | name.com        |
-| tenner.biz     | available | $24.98    | —             | 66             | 6      | 6      | namecheap       |
+| disclosed.biz  | available | $24.98    | —             | 58             | 6      | 9      | namecheap       |
 | decade.biz     | resell    | $862.50   | $29.99        | 82             | 13     | 6      | Sav.com LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
