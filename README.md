@@ -71,7 +71,7 @@ print(df.head())
 | land.biz       | resell    | $316,250  | $29.99        | 62             | 36     | 4      | Spaceship, Inc. |
 | athletics.biz  | premium   | $218.75   | $20           | 69             | 52     | 9      | name.com        |
 | eighth.biz     | available | $9.99     | $29.99        | 100            | 7      | 6      | name.com        |
-| robotic.biz    | resell    | $1,840    | $20           | 72             | 32     | 7      | Sav.com LLC     |
+| robotic.biz    | resell    | $1,840    | $20           | 72             | 30     | 7      | Sav.com LLC     |
 | unity.biz      | premium   | $6,250    | $20           | 70             | 40     | 5      | name.com        |
 | costly.biz     | available | $24.98    | —             | 66             | 7      | 6      | namecheap       |
 | choose.biz     | resell    | $1,148.85 | $20           | 102            | 26     | 6      | Porkbun         |
