@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .biz one-word domains from Unique 
 
 **Public extract:** 6,525 rows · **Live catalog:** 6,525 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/biz`  
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| allout.biz     | available | $24.98    | —             | 84             | 9      | 7      | namecheap       |
+| contingent.biz | available | $24.98    | —             | 80             | 9      | 10     | namecheap       |
 | clear.biz      | resell    | $5,750    | $20           | 90             | 49     | 5      | Sav.com LLC     |
 | seventeen.biz  | premium   | $31.25    | $20           | 84             | 62     | 9      | name.com        |
-| contingent.biz | available | $24.98    | —             | 80             | 9      | 10     | namecheap       |
+| allout.biz     | available | $24.98    | —             | 84             | 8      | 7      | namecheap       |
 | land.biz       | resell    | $316,250  | $29.99        | 62             | 36     | 4      | Spaceship, Inc. |
 | athletics.biz  | premium   | $218.75   | $20           | 69             | 52     | 9      | name.com        |
 | eighth.biz     | available | $9.99     | $29.99        | 100            | 7      | 6      | name.com        |
@@ -80,7 +80,7 @@ print(df.head())
 | define.biz     | resell    | $31.25    | $20           | 96             | 21     | 6      | Spaceship, Inc. |
 | streaming.biz  | premium   | $6,250    | $20           | 88             | 35     | 9      | name.com        |
 | tenner.biz     | available | $24.98    | —             | 66             | 6      | 6      | namecheap       |
-| abroad.biz     | resell    | $1,481.20 | $29.99        | 92             | 14     | 6      | NameSilo, LLC   |
+| abroad.biz     | resell    | $1,481.20 | $29.99        | 92             | 13     | 6      | NameSilo, LLC   |
 | goon.biz       | premium   | $62.50    | $20           | 80             | 35     | 5      | name.com        |
 | disclosed.biz  | available | $24.98    | —             | 58             | 6      | 9      | namecheap       |
 | decade.biz     | resell    | $862.50   | $29.99        | 82             | 13     | 6      | Sav.com LLC     |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIZ One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIZ One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
