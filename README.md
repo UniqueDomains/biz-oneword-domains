@@ -3,18 +3,18 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C525%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C524%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C525%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .biz one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .biz one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 6,524-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **6,525 domains** on the canonical page below.
 
-**Public extract:** 6,525 rows · **Live catalog:** 6,525 domains
+**Public extract:** 6,524 rows · **Live catalog:** 6,525 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/biz`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BIZ one-word domain c
 
 ### Files
 
-- `biz.csv` — public CSV extract (6,525 rows)
-- `biz.json` — public JSON extract (6,525 rows)
+- `biz.csv` — public CSV extract (6,524 rows)
+- `biz.json` — public JSON extract (6,524 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -79,10 +79,10 @@ print(df.head())
 | derelict.biz   | available | $24.98    | —             | 92             | 6      | 8      | namecheap       |
 | define.biz     | resell    | $31.25    | $20           | 96             | 21     | 6      | Spaceship, Inc. |
 | streaming.biz  | premium   | $6,250    | $20           | 88             | 35     | 9      | name.com        |
-| tenner.biz     | available | $24.98    | —             | 66             | 6      | 6      | namecheap       |
+| hiding.biz     | available | $24.98    | —             | 70             | 6      | 6      | namecheap       |
 | abroad.biz     | resell    | $1,481.20 | $29.99        | 92             | 13     | 6      | NameSilo, LLC   |
 | goon.biz       | premium   | $62.50    | $20           | 80             | 35     | 5      | name.com        |
-| disclosed.biz  | available | $24.98    | —             | 58             | 6      | 9      | namecheap       |
+| tenner.biz     | available | $24.98    | —             | 66             | 6      | 6      | namecheap       |
 | decade.biz     | resell    | $862.50   | $29.99        | 82             | 13     | 6      | Sav.com LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 6,525-row public sample | 6,525 live domains                               |
+| 6,524-row public sample | 6,525 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
