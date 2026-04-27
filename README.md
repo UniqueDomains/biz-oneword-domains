@@ -1,22 +1,22 @@
-# Available .BIZ One-Word Domains (6,525)
+# Available .BIZ One-Word Domains (8,715)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C525%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C525%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C715%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .biz one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .biz one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **8,715 domains** on the canonical page below.
 
-**Public extract:** 6,525 rows · **Live catalog:** 6,525 domains
+**Public extract:** 1,000 rows · **Live catalog:** 8,715 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/biz`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BIZ one-word domain c
 
 ### Files
 
-- `biz.csv` — public CSV extract (6,525 rows)
-- `biz.json` — public JSON extract (6,525 rows)
+- `biz.csv` — public CSV extract (1,000 rows)
+- `biz.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| contingent.biz | available | $24.98    | —             | 80             | 9      | 10     | namecheap       |
-| clear.biz      | resell    | $5,750    | $20           | 90             | 49     | 5      | Sav.com LLC     |
-| seventeen.biz  | premium   | $31.25    | $20           | 84             | 62     | 9      | name.com        |
-| allout.biz     | available | $24.98    | —             | 84             | 8      | 7      | namecheap       |
-| land.biz       | resell    | $316,250  | $29.99        | 62             | 36     | 4      | Spaceship, Inc. |
-| athletics.biz  | premium   | $218.75   | $20           | 69             | 52     | 9      | name.com        |
-| eighth.biz     | available | $9.99     | $29.99        | 100            | 7      | 6      | name.com        |
-| robotic.biz    | resell    | $1,840    | $20           | 72             | 30     | 7      | Sav.com LLC     |
-| unity.biz      | premium   | $6,250    | $20           | 70             | 40     | 5      | name.com        |
-| costly.biz     | available | $24.98    | —             | 66             | 7      | 6      | namecheap       |
-| choose.biz     | resell    | $1,148.85 | $20           | 102            | 26     | 6      | Porkbun         |
-| shared.biz     | premium   | $218.75   | $20           | 70             | 37     | 6      | name.com        |
-| derelict.biz   | available | $24.98    | —             | 92             | 6      | 8      | namecheap       |
-| define.biz     | resell    | $31.25    | $20           | 96             | 21     | 6      | Spaceship, Inc. |
-| streaming.biz  | premium   | $6,250    | $20           | 88             | 35     | 9      | name.com        |
-| hiding.biz     | available | $24.98    | —             | 70             | 6      | 6      | namecheap       |
-| abroad.biz     | resell    | $1,481.20 | $29.99        | 92             | 13     | 6      | NameSilo, LLC   |
-| goon.biz       | premium   | $62.50    | $20           | 80             | 35     | 5      | name.com        |
-| tenner.biz     | available | $24.98    | —             | 66             | 6      | 6      | namecheap       |
-| decade.biz     | resell    | $862.50   | $29.99        | 82             | 13     | 6      | Sav.com LLC     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                    |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
+| keepthechange.biz | available | $1.99     | —             | 46             | 59     | 15     | name.com                     |
+| farmers.biz       | resell    | —         | —             | 54             | 59     | 7      | Moniker Online Services, LLC |
+| pops.biz          | premium   | $53.92    | $21.24        | 74             | 24     | 4      | namesilo                     |
+| saveit.biz        | available | $1.99     | —             | 74             | 13     | 7      | name.com                     |
+| tokens.biz        | resell    | —         | —             | 51             | 36     | 6      | GoDaddy.com, LLC             |
+| superhero.biz     | premium   | $31.99    | —             | 84             | 23     | 9      | name.com                     |
+| forces.biz        | available | $1.99     | —             | 82             | 12     | 6      | name.com                     |
+| homes.biz         | resell    | —         | —             | 86             | 34     | 5      | GoDaddy.com, LLC             |
+| machines.biz      | premium   | $1,250    | —             | 56             | 22     | 8      | name.com                     |
+| extras.biz        | available | $1.99     | —             | 56             | 11     | 6      | name.com                     |
+| commonsense.biz   | resell    | —         | —             | 86             | 30     | 12     | 101domain GRS Limited        |
+| smartest.biz      | premium   | $29.50    | $21.24        | 64             | 20     | 8      | namesilo                     |
+| playin.biz        | available | $1.99     | —             | 80             | 10     | 7      | name.com                     |
+| cams.biz          | resell    | —         | —             | 52             | 29     | 4      | eNom, LLC                    |
+| workers.biz       | premium   | $31.99    | —             | 60             | 20     | 7      | name.com                     |
+| equals.biz        | available | $1.99     | —             | 62             | 10     | 6      | name.com                     |
+| dogs.biz          | resell    | —         | —             | 76             | 28     | 4      | GoDaddy.com, LLC             |
+| engineers.biz     | premium   | $218.75   | —             | 60             | 19     | 9      | name.com                     |
+| breaks.biz        | available | $1.99     | —             | 52             | 10     | 6      | name.com                     |
+| gems.biz          | resell    | —         | —             | 70             | 28     | 4      | GoDaddy.com, LLC             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 6,525-row public sample | 6,525 live domains                               |
+| 1,000-row public sample | 8,715 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIZ One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIZ One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
