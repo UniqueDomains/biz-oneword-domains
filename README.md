@@ -1,10 +1,10 @@
-# Available .BIZ One-Word Domains (8,895)
+# Available .BIZ One-Word Domains (8,904)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C895%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C904%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .biz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,895 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,904 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,895 domains
+**Public extract:** 1,000 rows · **Live catalog:** 8,904 domains · **Median ask:** $205.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/biz`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                    |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
+| finals.biz        | available | $1.99     | —             | 80             | 7      | 6      | name.com                     |
+| forces.biz        | available | $1.99     | —             | 82             | 12     | 6      | name.com                     |
+| playin.biz        | available | $1.99     | —             | 80             | 10     | 7      | name.com                     |
+| leaveon.biz       | available | $1.99     | —             | 80             | 1      | 8      | name.com                     |
+| beawake.biz       | available | $1.99     | —             | 84             | 3      | 8      | name.com                     |
+| dogstail.biz      | available | $1.99     | —             | 94             | 1      | 8      | name.com                     |
+| getjiggy.biz      | available | $1.99     | —             | 80             | 2      | 9      | name.com                     |
+| midautumn.biz     | available | $1.99     | —             | 80             | 2      | 9      | name.com                     |
+| becalled.biz      | available | $2.19     | $23.49        | 86             | 2      | 9      | namesilo                     |
+| havemercy.biz     | available | $1.99     | —             | 80             | 2      | 10     | name.com                     |
+| makewhole.biz     | available | $1.99     | —             | 80             | 2      | 10     | name.com                     |
+| makehappen.biz    | available | $1.99     | —             | 80             | 3      | 11     | name.com                     |
+| midmorning.biz    | available | $1.99     | —             | 80             | 1      | 11     | name.com                     |
 | keepthechange.biz | available | $1.99     | —             | 46             | 59     | 15     | name.com                     |
 | farmers.biz       | resell    | —         | —             | 54             | 59     | 7      | Moniker Online Services, LLC |
 | pops.biz          | premium   | $53.92    | $21.24        | 74             | 24     | 4      | namesilo                     |
 | saveit.biz        | available | $1.99     | —             | 74             | 13     | 7      | name.com                     |
 | tokens.biz        | resell    | —         | —             | 51             | 36     | 6      | GoDaddy.com, LLC             |
 | superhero.biz     | premium   | $31.99    | —             | 84             | 23     | 9      | name.com                     |
-| forces.biz        | available | $1.99     | —             | 82             | 12     | 6      | name.com                     |
 | homes.biz         | resell    | —         | —             | 86             | 34     | 5      | GoDaddy.com, LLC             |
-| machines.biz      | premium   | $1,250    | —             | 56             | 22     | 8      | name.com                     |
-| extras.biz        | available | $1.99     | —             | 56             | 11     | 6      | name.com                     |
-| commonsense.biz   | resell    | —         | —             | 86             | 30     | 12     | 101domain GRS Limited        |
-| workers.biz       | premium   | $31.99    | —             | 60             | 20     | 7      | name.com                     |
-| playin.biz        | available | $1.99     | —             | 80             | 10     | 7      | name.com                     |
-| cams.biz          | resell    | —         | —             | 52             | 29     | 4      | eNom, LLC                    |
-| engineers.biz     | premium   | $218.75   | —             | 60             | 19     | 9      | name.com                     |
-| equals.biz        | available | $1.99     | —             | 62             | 10     | 6      | name.com                     |
-| dogs.biz          | resell    | —         | —             | 76             | 28     | 4      | GoDaddy.com, LLC             |
-| ratings.biz       | premium   | $218.75   | —             | 53             | 19     | 7      | name.com                     |
-| breaks.biz        | available | $1.99     | —             | 52             | 10     | 6      | name.com                     |
-| gems.biz          | resell    | —         | —             | 70             | 28     | 4      | GoDaddy.com, LLC             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 8,895 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 8,904 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely focused on .biz domain names. The range includes dictionary-style words such as finals.biz and forces.biz, more suggestive combinations such as toneup.biz and beawake.biz, and some names that raise obvious trademark concerns, such as Netflix.biz. For founders, the main question is whether a .biz ending still feels credible for the brand you want to build. For investors, the key is whether the word quality justifies the extension. With a median ask of 205.015182, pricing is relatively accessible, so selection quality matters more than chasing small differences in ask.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All results in this set use the .biz extension
+- Median ask across the selection is 205.015182
+- Word quality varies from clean to awkward or risky
+- Check trademark exposure before valuing any name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIZ One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIZ One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

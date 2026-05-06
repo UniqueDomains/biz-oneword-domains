@@ -184,6 +184,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 151c8381-38db-496b-8c1c-8c66cdd0bba0,theories.biz,premium,31.99,,58,6,8,name.com,,
 1522b67e-d897-451b-8476-31158ad10fbb,ofan.biz,premium,62.5,,44,4,5,name.com,,
 156bb29a-0829-4f99-9bc7-afb97e5f5c23,welds.biz,premium,31.99,,59,4,5,name.com,,
+16030e91-1c50-40b2-9d7e-34dbc244ce78,hanoi.biz,resell,,,64,15,5,"HANGANG Systems, Inc. dba Doregi.com",20/08/2019 19:23,20/08/2032 19:23
 1617c183-0a2d-4f14-98ef-d0c25bb23abb,havethefoggiest.biz,available,1.99,,54,1,17,name.com,,
 162acdf0-b1f9-4ce2-bbc9-6fdfef8de50a,wandered.biz,premium,31.99,,56,4,8,name.com,,
 1649422f-eb3b-43c5-9081-77c9b4f600c7,makethegrade.biz,premium,31.99,,70,3,14,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6a88c213-a6bc-4072-8317-0d072236b689,gotowards.biz,available,1.99,,68,1,10,name.com,,
 6ae15d27-be06-4260-8abd-03511cb5582f,parkup.biz,available,1.99,,59,4,7,name.com,,
 6ae8ac9c-6cab-45af-91d5-8af783e2b2b7,somuchso.biz,available,1.99,,50,1,10,name.com,,
-6ae97efe-db4b-4373-b2f2-34cadcbc0d8e,filefootage.biz,available,1.99,,74,1,12,name.com,,
