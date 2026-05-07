@@ -443,6 +443,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 30c4b17d-f71e-4056-adaf-e20dc8197903,coffeeklatsch.biz,available,1.99,,72,1,14,name.com,,
 30cc1341-753b-41c2-9554-fdb419a1daec,rained.biz,available,1.99,,50,4,6,name.com,,
 30cdc699-65bd-4a75-a11a-233aaf101bec,twits.biz,premium,29.5,21.24,46,3,5,namesilo,,
+30ce69ab-6459-4911-82ce-c75744277696,eating.biz,resell,,,78,15,6,Dynadot Inc,24/10/2025 06:14,24/10/2026 06:14
 30e2d35a-4914-4851-ad55-c99ba05702b3,ballplaying.biz,available,1.99,,70,1,12,name.com,,
 30e4781a-9e84-490c-ba88-ad373ac29810,prefers.biz,premium,29.5,21.24,52,3,7,namesilo,,
 30f71cc9-9912-4c2c-bfd8-3775487a05e0,droppingin.biz,available,1.99,,70,2,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6a82d0b8-0d7d-4413-beaa-a5bdc6a8e209,keepstraight.biz,available,1.99,,62,1,13,name.com,,
 6a88c213-a6bc-4072-8317-0d072236b689,gotowards.biz,available,1.99,,68,1,10,name.com,,
 6ae15d27-be06-4260-8abd-03511cb5582f,parkup.biz,available,1.99,,59,4,7,name.com,,
-6ae8ac9c-6cab-45af-91d5-8af783e2b2b7,somuchso.biz,available,1.99,,50,1,10,name.com,,
