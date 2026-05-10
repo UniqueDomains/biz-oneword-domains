@@ -878,6 +878,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5dbe51e9-9ab4-40c1-9116-e3f66c2d1ba1,photographers.biz,resell,,,47,10,13,Sav.com LLC,21/09/2022 22:00,21/09/2026 22:00
 5dff9fbc-9048-477d-b1a8-4e1a6c8081af,transports.biz,premium,31.99,,52,7,10,name.com,,
 5e152c21-455d-4d88-a056-642d6a35b412,adverbs.biz,premium,31.99,,50,3,7,name.com,,
+5e17ae3a-ad97-444d-9160-96cc990972d7,Martha.biz,premium,1776.75,,78,13,6,name.com,,
 5e2f690a-a8ae-4a53-9e81-7f82cb5db179,strangers.biz,premium,31.99,,46,9,9,name.com,,
 5e4090c2-48cb-46a7-af9f-fd0ca67a499c,AOL.biz,premium,,,76,17,3,,,
 5e685200-0e3b-4bfb-8287-f9968eb30946,subsets.biz,available,1.99,,54,3,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6a49d189-60c4-46dc-8e1e-f68de37525ed,highpolitics.biz,available,1.99,,62,0,13,name.com,,
 6a67f061-13bb-4500-9da4-a10aa064e3ad,asperyourrequest.biz,available,1.99,,48,1,19,name.com,,
 6a82d0b8-0d7d-4413-beaa-a5bdc6a8e209,keepstraight.biz,available,1.99,,62,1,13,name.com,,
-6a88c213-a6bc-4072-8317-0d072236b689,gotowards.biz,available,1.99,,68,1,10,name.com,,
