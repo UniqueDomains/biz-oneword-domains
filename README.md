@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .biz one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,808 domains · **Median ask:** $63.20 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/biz`
 **Best for:** founders, investors, studios
 
@@ -65,18 +65,18 @@ print(df.head())
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | azido.biz  | available | $1.99     | $31.99        | low            | low    | 5      | name.com         |
-| Ava.biz    | resell    | —         | —             | high           | low    | 3      | 007 Names, Inc.  |
+| ava.biz    | resell    | —         | —             | high           | low    | 3      | 007 Names, Inc.  |
 | axe.biz    | premium   | $937.50   | —             | medium         | low    | 3      | name.com         |
 | azoic.biz  | available | $1.99     | $31.99        | low            | low    | 5      | name.com         |
 | bae.biz    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
 | azo.biz    | premium   | $937.50   | $22.50        | low            | low    | 3      | name.com         |
 | lxvii.biz  | available | $7.99     | $23.49        | low            | low    | 5      | namesilo         |
-| buy.biz    | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC |
+| buy.biz    | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC |
 | clv.biz    | premium   | $937.50   | $22.50        | medium         | low    | 3      | name.com         |
 | xlvii.biz  | available | $7.99     | $23.49        | low            | low    | 5      | namesilo         |
 | cue.biz    | resell    | —         | —             | medium         | low    | 3      | Sea Wasp, LLC    |
 | des.biz    | premium   | $937.50   | —             | high           | low    | 3      | name.com         |
-| abomb.biz  | available | $7.99     | $23.49        | high           | low    | 6      | namesilo         |
+| abomb.biz  | available | $7.99     | $23.49        | medium         | low    | 6      | namesilo         |
 | pen.biz    | resell    | —         | —             | medium         | low    | 3      | Epik LLC         |
 | hum.biz    | premium   | $937.50   | —             | high           | low    | 3      | name.com         |
 | aecial.biz | available | $7.99     | $23.49        | low            | low    | 6      | namesilo         |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIZ One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIZ One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
